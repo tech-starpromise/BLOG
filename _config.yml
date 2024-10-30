@@ -1,7 +1,7 @@
 # Site settings
 title: Tech-Starpromise's Blog
 SEOTitle: 星河动力的博客 | Tech-Starpromise's Blog
-header-img: img/home-bg.jpg
+header-img: img/blog-home.jpeg
 email: mail@starpromise.top
 description: "不定时分享一些“酷“东西 | Share some "cool" things from time to time"
 keyword: "starpromise, tech-starpromise, @tech-starpromise, 星河动力的博客, tech-starpromise Blog, 博客, 个人网站, 互联网, Web, cool, 酷, 新奇, 有趣"
@@ -75,7 +75,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Share some "cool" things from time to time <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/blog-me.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
