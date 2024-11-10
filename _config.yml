@@ -1,10 +1,10 @@
 # Site settings
-title: Tech-Starpromise's Blog
-SEOTitle: 杰尼杰尼的博客 | Tech-Starpromise's Blog
+title: 杰尼杰尼的主页
+SEOTitle: 杰尼杰尼的主页 | Tech-Starpromise's Home
 header-img: img/blog-home.jpeg
 email: starpromise.7@icloud.com
 description: "不定时分享一些酷东西 | Share some COOL things from time to time"
-keyword: "starpromise, tech-starpromise, @tech-starpromise, 杰尼杰尼的博客, tech-starpromise Blog, 杰尼杰尼, 博客, 个人网站, 互联网, Web, cool, 酷, 新奇, 有趣"
+keyword: "starpromise, tech-starpromise, @tech-starpromise, 杰尼杰尼的主页, tech-starpromise Home, 杰尼杰尼, 主页, 个人网站, 互联网, Web, cool, 酷, 新奇, 有趣"
 url: "https://tech-starpromise.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
