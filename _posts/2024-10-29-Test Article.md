@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "测试文章 Test Article"
-author:       "tech-starpromise"
+author:       "杰尼杰尼"
 header-style: text
 catalog:      true
 tags:
