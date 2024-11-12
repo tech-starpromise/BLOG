@@ -5,8 +5,7 @@ author:       "Starpromise"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - 碎片
 ---
 
 >这是一篇测试文章。
