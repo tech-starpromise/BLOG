@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 3265066500
+weibo_username: u/3265066500
 zhihu_username: 8f6361c29bac9fbe1010cf11f3189701
 github_username: tech-starpromise
 twitter_username: Starpromise_jia
