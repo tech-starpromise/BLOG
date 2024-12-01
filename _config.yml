@@ -13,9 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-email: starpromise.jia@yahoo.com
+email_username: starpromise.jia@yahoo.com
 github_username: tech-starpromise
 twitter_username: Starpromise_jia
+wechat_username: Tsing_0531
 weibo_username: u/3265066500
 #zhihu_username: 8f6361c29bac9fbe1010cf11f3189701
 #facebook_username:  huxpro
