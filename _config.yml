@@ -1,12 +1,12 @@
 # Site settings
-title: XingXu's Sharing｜星许的博客
-SEOTitle: XingXu's Sharing｜星许的博客
+title: 星许的博客｜XingXu's Sharing
+SEOTitle: 星许的博客｜XingXu's Sharing
 header-img: img/blog-home.jpeg
 email: starpromise.jia@yahoo.com
 description: "我就是我，不一样的烟火～"
-keyword: "starpromise, @starpromise, 星许, @星许, Starpromise's Sharing, 星许的主页, 个人网站, 互联网, 新奇, 有趣"
+keyword: "starpromise, @starpromise, 星许, @星许, XingXu's Sharing, 星许的博客, 个人主页, 互联网, 新奇, 有趣"
 url: "https://starpromise.top/" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "starpromise.top" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
