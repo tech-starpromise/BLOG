@@ -76,7 +76,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "我就是我，不一样的烟火～"
+sidebar-about-description: "「我与我，周旋久，宁做我」"
 sidebar-avatar: /img/blog-me.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
