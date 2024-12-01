@@ -13,10 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: u/3265066500
-zhihu_username: 8f6361c29bac9fbe1010cf11f3189701
+email: starpromise.jia@yahoo.com
 github_username: tech-starpromise
 twitter_username: Starpromise_jia
+weibo_username: u/3265066500
+#zhihu_username: 8f6361c29bac9fbe1010cf11f3189701
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
