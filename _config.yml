@@ -1,6 +1,6 @@
 # Site settings
 title: XingXu's Sharing｜星许的博客
-SEOTitle: XingXu's Sharing
+SEOTitle: XingXu's Sharing｜星许的博客
 header-img: img/blog-home.jpeg
 email: starpromise.jia@yahoo.com
 description: "我就是我，不一样的烟火～"
@@ -74,7 +74,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Share some COOL things from time to time <br> React Team @ Meta"
+sidebar-about-description: "我就是我，不一样的烟火～ <br> React Team @ Meta"
 sidebar-avatar: /img/blog-me.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
