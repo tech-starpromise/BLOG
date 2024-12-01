@@ -1,10 +1,10 @@
 # Site settings
-title: 星许的博客｜XingXu's Sharing
-SEOTitle: 星许的博客｜XingXu's Sharing
+title: 星许的博客｜XingXu's Blog
+SEOTitle: 星许的博客｜XingXu's Blog
 header-img: img/blog-home.jpeg
 email: starpromise.jia@yahoo.com
 description: "我就是我，不一样的烟火～"
-keyword: "starpromise, @starpromise, 星许, @星许, XingXu's Sharing, 星许的博客, 个人主页, 互联网, 新奇, 有趣"
+keyword: "starpromise, @starpromise, 星许, @星许, XingXu's Blog, 星许的博客, 个人主页, 互联网, 新奇, 有趣"
 url: "https://starpromise.top/" # your host, for absolute URL
 baseurl: "starpromise.top" # for example, '/blog' if your blog hosted on 'host/blog'
 
