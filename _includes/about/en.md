@@ -1,38 +1,28 @@
-Hey, I am Huang, Xuan (a.k.a. _@huxpro_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
+Hey, I'm Xing Xu, a non-university graduate student who knows a little about computers but loves technology. I like to tinker with things. I speak ok English and Russian, but I'm very good at Chinese. I call myself a compound talent born from the hybrid of Jiaotong University and DSTU.
 
-I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
+My current physical activities are mainly in DUG and Dongda University, and my virtual avatars appear on Weibo, Bilibili, X, Github, etc.
 
-I also worked on the [Hermes JavaScript Engine](https://hermesengine.dev/), some other projects under the [Reality Labs (Research)](https://tech.fb.com/ar-vr/), and [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts at Meta (Facebook).
+##### Personal experience
+Outstanding student at the school level in the 2019-2020 academic year
+Outstanding student at the school level in the 2021-2022 academic year
+November 2021, the third "Creative Cup" Innovation and Entrepreneurship Competition·third prize at the school level
+December 2021, Shandong Jiaotong University Youth Maker Competition·second prize at the school level
+January 2022, "Yu Xiaoyi Cup" 14th Shandong Jiaotong University College Student Logistics Program Design Competition·second prize at the school level
+Won the CSC national government-sponsored undergraduate transfer study abroad opportunity in Russia in 2022
+Won the CSC national government-sponsored master's degree study abroad opportunity in Russia in 2023
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages, mainly supervised by [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/)) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
+Hey，我是星许（XingXu, _@tech-starpromise_），一个略懂计算机但热爱技术，喜欢折腾点麻烦东西，英语凑合俄语也凑合~~但中文很好~~的双非研究生，自诩是一个[交院](https://baike.baidu.com/item/%E5%B1%B1%E4%B8%9C%E4%BA%A4%E9%80%9A%E5%AD%A6%E9%99%A2/1241424)与 [DSTU](https://baike.baidu.com/item/%E9%A1%BF%E6%B2%B3%E5%9B%BD%E7%AB%8B%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6/6988279)杂交出来的~~复合型人才~~。
 
-##### Appearence
 
-- [React Labs: What We've Been Working On – June 2022][12] · React Blog · 2022
-- [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
-- [Toward Hermes being the Default][11] · React Native Blog · 2021
-- React Native 0.64 with Hermes for iOS · [The RN Show Podcast Ep #5](https://www.callstack.com/podcast-react-native-show) · 2021
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
+目前的物理活动范围主要在大鹅与东大，虚拟分身日常出没于[微博]([https://weibo.com/huxpro](https://weibo.com/u/3265066500))、[B站](https://space.bilibili.com/279381516)、[X](https://x.com/Starpromise.jia)、[Github](https://github.com/tech-starpromise)、~~[Instagram]~~(https://www.instagram.com/starpromise.jia/)等。
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
-[10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
-[11]: https://youtu.be/lGEMwh32soc
-[12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
+
+##### 个人经历
+2019-2020学年校级优秀学生
+2021-2022学年校级优秀学生
+2021年11月第三届“创意杯”创新创业大赛·校级三等奖
+2021年12月山东交通学院青年创客大赛·校级二等奖
+2022年1月“禹小驿杯”第十四届山东交通学院大学生物流方案设计竞赛·校级二等奖
+2022年获CSC国家公派·本科插班留学机会，赴俄罗斯学习
+2023年获CSC国家公派·硕士研究生留学机会，赴俄罗斯学习
