@@ -75,7 +75,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "我就是我，不一样的烟火～ <br> React Team @ Meta"
+sidebar-about-description: "我就是我，不一样的烟火～"
 sidebar-avatar: /img/blog-me.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
