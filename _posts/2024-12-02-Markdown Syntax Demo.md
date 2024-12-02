@@ -6,10 +6,10 @@ author:     "XingXu."
 header-img: "img/post/bg-241202.jpg"
 catalog: true
 tags:
-    - Code
+    - Forward
 ---
 
-> “[**Powered by guangqiang-liu**](https://github.com/guangqiang-liu/MarkdownSyntax)”
+> “Powered by [guangqiang-liu](https://github.com/guangqiang-liu/MarkdownSyntax)”
 
 
 ***
