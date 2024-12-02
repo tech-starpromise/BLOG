@@ -9,7 +9,7 @@ tags:
     - Code
 ---
 
-> “[Forked from guangqiang-liu/MarkdownSyntax](https://github.com/guangqiang-liu/MarkdownSyntax)”
+> “[**Powered by guangqiang-liu**](https://github.com/guangqiang-liu/MarkdownSyntax)”
 
 
 ***
