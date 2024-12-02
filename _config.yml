@@ -81,22 +81,22 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-# Favorite Blogger
-friends: [
-    {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
-]
+# Friends
+#friends: [
+#    {
+#        title: "Hux Blog",
+#        href: "http://huangxuan.me"
+#    },{
+#        title: "Foo",
+#        href: "#"
+#    },{
+#        title: "Bar",
+#        href: "#"
+#    },{
+#        title: "Example Friends",
+#        href: "#"
+#    },{
+#        title: "It helps SEO",
+#        href: "#"
+#    }
+#         ]
