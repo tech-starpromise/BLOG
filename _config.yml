@@ -82,7 +82,7 @@ service-worker: true
 page-mathjax: false
 
 # Favorite Blogger
-Favorite Blogger: [
+friends: [
     {
         title: "Hux Blog",
         href: "http://huangxuan.me"
