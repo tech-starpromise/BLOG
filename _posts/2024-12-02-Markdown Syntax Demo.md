@@ -3,7 +3,7 @@ layout:     post
 title:      "Markdown语法总结"
 date:       2024-12-02 16:55:21
 author:     "XingXu."
-header-img: "img/post-bg-241202.jpg"
+header-img: "img/post/bg-241202.jpg"
 catalog: true
 tags:
     - Code
