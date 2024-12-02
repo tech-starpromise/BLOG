@@ -36,7 +36,7 @@ tags:
 
 # 常用的Markdown工具
 
-![MacDown logo](http://upload-images.jianshu.io/upload_images/6342050-90f0cce4e19be7c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![MacDown logo](/img/in-post/241202/LogoMacdown.webp)
 
 ### MacOS平台(个人推荐使用Macdown)
 
