@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Markdown语法总结"
-subtitle:   " \"Forked from guangqiang-liu/MarkdownSyntax\""
 date:       2024-12-02 16:55:21
 author:     "XingXu."
 header-img: "img/post-bg-2024.jpg"
@@ -10,7 +9,7 @@ tags:
     - Code
 ---
 
-> “史上最全Markdown常用语法总结，学习Markdown看我就够了”
+> “[Forked from guangqiang-liu/MarkdownSyntax](https://github.com/guangqiang-liu/MarkdownSyntax)”
 
 
 ***
