@@ -12,7 +12,7 @@ baseurl: "starpromise.top" # for example, '/blog' if your blog hosted on 'host/b
 future: true
 
 # SNS settings
-RSS: false
+RSS: true
 wechat_username: starpromise.jia@yahoo.com
 github_username: tech-starpromise
 twitter_username: Starpromise_jia
