@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-email_username: starpromise.jia@yahoo.com
+wechat_username: starpromise.jia@yahoo.com
 github_username: tech-starpromise
 twitter_username: Starpromise_jia
 wechat_username: Tsing_0531
