@@ -42,7 +42,7 @@ tags:
 
 **在 Mac OS X 上，个人强烈建议使用 Macdown 这款免费且十分好用的 Markdown 编辑器，它支持实时预览，既左边是你编辑 Markdown 语言，右边会实时的生成预览效果。**
 
-![Macdown](http://upload-images.jianshu.io/upload_images/6342050-96ae1052c31645c9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Macdown](/img/in-post/241202/MacdownSoftwareInterface.webp)
 
 ### Windows平台
 
@@ -182,7 +182,7 @@ Header 2
 
 *使用方式：* 
 
-![Alt Image Text](http://upload-images.jianshu.io/upload_images/6342050-4dba8fa19b2fef6e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Alt Image Text](/img/in-post/241202/Example.webp)
 
 * Reference  
 
