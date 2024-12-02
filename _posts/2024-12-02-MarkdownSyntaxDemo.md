@@ -1,17 +1,19 @@
 ---
 layout:     post
 title:      "Markdown语法总结"
-subtitle:   " \"Markdown语法总结\""
+subtitle:   " \"Forked from guangqiang-liu/MarkdownSyntax\""
 date:       2024-12-02 16:55:21
-author:     "guangqiang-liu"
+author:     "XingXu."
 header-img: "img/post-bg-2024.jpg"
 catalog: true
 tags:
     - Code
 ---
 
-> “forked from guangqiang-liu/MarkdownSyntax”
+> “史上最全Markdown常用语法总结，学习Markdown看我就够了”
 
+
+***
 
 # 前言
 
@@ -52,43 +54,41 @@ tags:
 * MarkPad
 
 # Markdown 语法的简要介绍
+[换行符](#换行符)
 
-[1.换行符](#换行符)
+[强调(Strong and Emphasize)](#强调)
 
-[2.强调(Strong and Emphasize)](#强调)
+[标题(Headers)](#标题)
 
-[3.标题(Headers)](#标题)
+[URL链接](#URL链接)
 
-[4.URL链接](#URL链接)
+[引用图片](#引用图片)
 
-[5.引用图片](#引用图片)
+[列表](#列表)
 
-[6.列表](#列表)
+[引用](#引用)
 
-[7.引用](#引用)
+[Inline Code](#InlineCode)
 
-[8.Inline Code](#InlineCode)
+[Block Code](#BlockCode)
 
-[9.Block Code](#BlockCode)
+[Code Block](#CodeBlock)
 
-[10.Code Block](#CodeBlock)
+[分割线](#分割线)
 
-[11.分割线](#分割线)
+[表格](#表格)
 
-[12.表格](#表格)
+[锚点](#锚点)
 
-[13.锚点](#锚点)
+[del标签](#del标签)
 
-[14.del标签](#del)
+[u标签](#u标签)
 
-[15.u标签](#u)
+[mark标签](#mark标签)
 
-[16.mark标签](#mark)
+[font标签](#font标签)
 
-[17.font标签](#font)
-
-<a id="换行符"></a>
-### 1.换行符(Line Breaks)
+# 换行符
 > 在Markdown语法中，换行需要敲两个回车键，即在两段文本之间添加一个空行来达到换行的效果。
 
 *敲一个回车键*
@@ -118,8 +118,7 @@ tags:
 **这是第一个段落**  
 **这时第二个段落**
 
-<a id="强调"></a>
-### 2.强调(Strong and Emphasize)
+# 强调
 > 在Markdown语法中，想要着重强调某一部分内容时，可以使用`*`或者是`_`来包裹要着重强调的内容。`**`或`__`表示字体加粗，`*`或`_`表示字体斜体，（个人推荐使用`*`）
 
 *这里的内容强调分两种语法，一种是字体加粗强调，另一种是为斜体强调*
@@ -134,8 +133,7 @@ tags:
 * 方式1：*这是斜体强调*
 * 方式2：_这是斜体强调_
 
-<a id="标题"></a>
-### 3.标题(Headers)
+# 标题
 > 在Markdown语法中，添加标题使用`#`，就会有标题加粗的效果出现。标题分为六个等级，即1个#代表一级标题，2个#代表二级标题，直到六级标题。
 
 # Header 1
@@ -152,8 +150,7 @@ Header 1
 Header 2
 ---------
 
-<a id="URL链接"></a>
-### 4.可点击URL链接(Links and Email)
+# URL链接
 > 在写自己的博客中，经常有需求要跳转到某一个网页或者邮件。这时需要使用link链接。link链接方式分为内联(Inline)和外部引用(Reference)
 
 * Inline
@@ -175,8 +172,7 @@ Header 2
 [arbitrary_id]: http://www.jianshu.com/u/023338566ca5
 [like this]: http://www.jianshu.com/u/023338566ca5
 
-<a id="引用图片"></a>
-### 5.引用图片
+# 引用图片
 > Markdown中引用图片资源同样也是分为内联(Inline)和外部引用(Reference)
 
 * Inline
@@ -203,8 +199,7 @@ Header 2
 
 [image-id]: http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg
 
-<a id="列表"></a>
-### 6.列表
+# 列表
 > Markdown语法中，列表分为三类：有序列表、无序列表、嵌套列表
 
 * ####有序列表
@@ -229,8 +224,7 @@ Header 2
 		2. 列表2
 		3. 列表3
 
-<a id="引用"></a>
-### 7.引用(Block Quote)
+# 引用
 > Markdown语法中，使用`>`表示引用，引用名人名言或者是别人的一段文本等。
 
 ---
@@ -261,8 +255,7 @@ Header 2
 
 > [一级引用][arbitrary_id]
 
-<a id="InlineCode"></a>
-### 8.Inline Code
+# InlineCode
 >内嵌文本，当我们想让某一文本内容内嵌在边框内，我们可以使用一对反引号包裹内容:`内容`
 
 **使用方式：**
@@ -277,9 +270,8 @@ Header 2
 
 * ```` ``Code with `backticks` `` ````
  
-<a id="BlockCode"></a>
-### 9.Block Code(不推荐使用)
-> 当我们敲4个空格键或者是一个tab键，这样就形成一个代码块区域。
+# BlockCode
+> 当我们敲4个空格键或者是一个tab键，这样就形成一个代码块区域。不推荐使用
 
 **使用方式：**
 
@@ -288,8 +280,8 @@ Header 2
 	print('Then indent at least 4 spaces or 1 tab')
 	print('Nesting does nothing. Your code is displayed Literally')
 
-<a id="CodeBlock"></a>
-### 10.Code Block
+
+# CodeBlock
 > 对于程序员来说，很多时候我们写技术博客都需要贴上自己的代码来给读者讲解，这时就用到了代码引用语法：三个反引号```Code```或者三个波浪号~~~Code~~~。
 
 * 方式1
@@ -324,8 +316,7 @@ render() {
   }
 ~~~
 
-<a id="分割线"></a>
-### 11.分割线(Horizontal Rules)
+# 分割线
 > 当我们想对文章的某些内容做上下分割，这时我们可以使用分割线语法：`***或---`
 
 *在MacDown编辑器中，分割线分为粗线和细线。*
@@ -348,8 +339,7 @@ or
 
 --
 
-<a id="表格"></a>
-### 12.表格(Table)
+# 表格
 > 表格的使用肯定我们每一位同学都不陌生，因为我们经常使用Excel表格来展示各种数据报表。很庆幸Markdown同样也支持表格制作，而且使用方式很简单。表格由行与列组成，这里只需要注意表格的内容对齐方式即可。
 
 *没有设置对齐方式*
@@ -369,8 +359,7 @@ Content Cell  | Content Cell
 
 **这里需要注意：表格的左边和右边的`|`可以省略不需要使用，表格左右两边加上`|`主要基于美观考虑，表格的对齐方式仅仅取决于`:`**
 
-<a id="锚点"></a>
-### 13.跳转到指定的内容位置(a标签)
+# 锚点
 >在写文章时，有时候我们有这样的需求，从文章的某一个位置直接跳转到指定的另一个位置，这时使用到a标签的锚点语法。
 
 **注意: a标签跳转到指定位置在简书中无效**
@@ -383,8 +372,7 @@ Content Cell  | Content Cell
 
 [*Markdown高级用法：* 跳转到作者的简书链接处](#markdown-anchor)
 
-<a id="del"></a>
-### 14.中划线(del标签)
+# del标签
 > 内容中间添加一条横线: `<del>xxx</del>`
 
 **注意：del标签在简书中无效**
@@ -394,8 +382,7 @@ First Header  | Second Header
 Content Cell  | <del>Content Cell</del>
 Content Cell  | Content Cell  
 
-<a id="u"></a>
-### 15.下划线(u标签)
+# u标签
 > 内容底部添加一条横线: `<u>xxx</u>`
 
 **注意：u标签在简书中无效**
@@ -405,8 +392,7 @@ First Header  | Second Header
 Content Cell  | <u>Content Cell</u>
 Content Cell  | Content Cell
 
-<a id="mark"></a>
-### 16.标记(mark标签)
+# mark标签
 > 内容颜色高亮处理: `<mark>xxx</mark>`
 
 **注意：mark标签在简书中无效**
@@ -416,8 +402,7 @@ First Header  | Second Header
 Content Cell  | <mark>Content Cell</mark>
 Content Cell  | Content Cell 
 
-<a id="font"></a>
-### 17.修改文字颜色(font标签)
+# font标签
 > 设置文本的字体颜色: `<font color=Red>xxx</font>`
 
 **注意：font标签在简书中无效**
