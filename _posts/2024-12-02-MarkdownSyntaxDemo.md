@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Markdown语法总结"
-subtitle:   " \"MarkdownSyntaxDemo\""
+subtitle:   " \Markdown语法总结\""
 date:       2024-10-30 22:15:39
 author:     "guangqiang-liu"
 header-img: "img/post-bg-2024.jpg"
