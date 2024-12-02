@@ -5,40 +5,31 @@ header-img: img/blog-home.jpeg
 email: starpromise.jia@yahoo.com
 description: "「我与我，周旋久，宁做我」"
 keyword: "starpromise, @starpromise, 星许, @星许, XingXu's Blog, 星许的博客, 个人主页, 互联网, 新奇, 有趣"
-url: "https://starpromise.top/" # your host, for absolute URL
-baseurl: "starpromise.top" # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://starpromise.top/"         # your host, for absolute URL
+baseurl: "starpromise.top"              # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: true
-wechat_username: starpromise.jia@yahoo.com
+email: starpromise.jia@yahoo.com
 github_username: tech-starpromise
 twitter_username: Starpromise_jia
-wechat_username: Tsing_0531
 weibo_username: u/3265066500
+#wechat_username: Tsing_0531
 #zhihu_username: 8f6361c29bac9fbe1010cf11f3189701
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+#facebook_username:
+#linkedin_username:
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude:
-  [
-    "less",
-    "node_modules",
-    "Gruntfile.js",
-    "package.json",
-    "README.md",
-    "README.zh.md",
-  ]
-anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+#timezone: CN                           # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -52,7 +43,7 @@ plugins: [jekyll-paginate]
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
-  input: GFM # use Github Flavored Markdown !important
+  input: GFM                            # use Github Flavored Markdown !important
   syntax_highlighter_opts:
     span:
       line_numbers: false
@@ -71,17 +62,17 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+#ga_track_id: "UA-49627206-1"           # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
 
 # Sidebar settings
-sidebar: true # whether or not using Sidebar.
+sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "「我与我，周旋久，宁做我」"
-sidebar-avatar: /img/blog-me.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/blog-me.jpeg       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
-featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
@@ -91,14 +82,21 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-#friends:
- # [
- #   { title: "乱序（Midare）", href: "http://mida.re/" },
- #   { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
- #   { title: "Kun Qian", href: "http://kunq.me" },
- #   { title: "Sherry Woo", href: "https://sherrywoo.me/" },
- #   { title: "SmdCn", href: "http://blog.smdcn.net" },
- #   { title: "JiyinYiyong", href: "http://tiye.me/" },
- #   { title: "DHong Say", href: "http://dhong.co" },
- #   { title: "尹峰以为", href: "http://ingf.github.io/" },
- # ]
+friends: [
+    {
+        title: "Hux Blog",
+        href: "http://huangxuan.me"
+    },{
+        title: "Foo",
+        href: "#"
+    },{
+        title: "Bar",
+        href: "#"
+    },{
+        title: "Example Friends",
+        href: "#"
+    },{
+        title: "It helps SEO",
+        href: "#"
+    }
+]
