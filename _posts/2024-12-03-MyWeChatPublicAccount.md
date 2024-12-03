@@ -11,4 +11,4 @@ tags:
 
 > “Yeah It's online. ”
 
-![My WeChat](/img/WeChat.png)
+![My WeChat](img/in-post/241203/WeChat.png)
