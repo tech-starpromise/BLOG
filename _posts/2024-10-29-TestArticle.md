@@ -1,9 +1,10 @@
 ---
-layout:       post
-title:        "测试文章 Test Article"
-author:       "XingXu."
-header-style: text
-catalog:      true
+layout:     post
+title:      "XingXu.'s WeChat"
+subtitle:   " \"我的微信公众号开通咯\""
+date:       2024-12-03 22:26:24
+author:     "XingXu."
+catalog: false
 tags:
     - 碎片
 ---
