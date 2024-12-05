@@ -1,27 +1,29 @@
 ---
 layout:     post
 title:      "测试文章"
-subtitle:   " \"不用管我，我只是作者大大做测试用的 (｡•ˇ‸ˇ•｡)\""
+subtitle:   " \"不用管我，我只是作者大大做测试用的 (≖◡≖✿)\""
 date:       1980-01-01 00:00:01
 author:     "XingXu."
-catalog: false
+catalog: true
 tags:
     - 碎片
 ---
 
 >~~看不见我 看不见我~~
 
+
 ## 文字测试
 
 这是一篇测试文章。This is a test article.
+
 这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.
+
 这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.
-这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.
-这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.
-这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.
-这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.
+
 这是一篇测试文章。This is a test article.这是一篇测试文章。This is a test article.
+
 这是一篇测试文章。This is a test article.
+
 
 ## 视频外链测试
 
