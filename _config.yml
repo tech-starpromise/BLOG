@@ -5,8 +5,8 @@ header-img: img/blog-home.jpeg
 email: starpromise.jia@yahoo.com
 description: "「我与我，周旋久，宁做我」"
 keyword: "starpromise, @starpromise, 星许, @星许, XingXu's Blog, 星许的博客, 个人主页, 互联网, 新奇, 有趣"
-url: "www.star-promise.top/"         # your host, for absolute URL
-baseurl: "www.star-promise.top"              # for example, '/blog' if your blog hosted on 'host/blog'
+url: "blog.star-promise.top/"         # your host, for absolute URL
+baseurl: "blog.star-promise.top"              # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
