@@ -509,7 +509,7 @@ or
 
 使用方式：
 
-在待跳转到的位置上添加一行：（本文中我添加到了 `认识 Markdown` 处）
+在待跳转到的位置上添加一行：（本文中我添加到了[`认识 Markdown`](#markdown-anchor)处）
 
 ````
 <a name="markdown-anchor"></a>
@@ -518,12 +518,8 @@ or
 在需要跳转处使用：
 
 ````
-[跳转到*认识 Markdown*](#markdown-anchor)
+[`认识 Markdown`](#markdown-anchor)
 ````
-
-效果展示：
-
-[*跳转到 认识 Markdown*](#markdown-anchor)
 
 ## del标签
 
