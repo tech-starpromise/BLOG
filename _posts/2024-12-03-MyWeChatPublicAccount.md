@@ -6,9 +6,10 @@ date: 2024-12-03 22:26:24
 author: "XingXu."
 catalog: false
 tags: -碎片
+
 ---
 
 > “Yeah It's online. ”
 
-![My WeChat](/img/in-post/241203/WeChat.png)
+![My WeChat](https://img.star-promise.top/in-post/241203/WeChat.png)
 
