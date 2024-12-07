@@ -11,5 +11,5 @@ tags: -碎片
 
 > “Yeah It's online. ”
 
-![My WeChat](https://img.star-promise.top/in-post/241203/WeChat.png)
+![My WeChat](https://media.star-promise.top/img/241203/WeChat.png)
 
