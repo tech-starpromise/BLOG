@@ -34,13 +34,13 @@ Markdown 是一种用来写作的轻量级「标记语言」，它用简洁的�
 
 ### 常用的Markdown工具
 
-![MacDown logo](https://img.star-promise.top/in-post/241202/LogoMacdown.webp)
+![MacDown logo](https://media.star-promise.top/img/241202/LogoMacdown.webp)
 
 #### MacOS平台(个人推荐使用Macdown)
 
 在 Mac OS X 上，个人强烈建议使用 **[Macdown](https://github.com/MacDownApp/macdown)** 这款免费且十分好用的 Markdown 编辑器，它支持**实时预览**，即，左边是你编辑 Markdown 语言，右边会实时的生成预览效果。
 
-![Macdown](https://img.star-promise.top/in-post/241202/MacdownSoftwareInterface.webp)
+![Macdown](https://media.star-promise.top/img/241202/MacdownSoftwareInterface.webp)
 
 #### Windows平台
 
@@ -235,14 +235,14 @@ Markdown中引用图片资源同样也是分为内联(Inline)和外部引用(Ref
 
   *效果展示：*
 
-  ![Alt Image Text](https://img.star-promise.top/in-post/241202/Example.webp)
+  ![Alt Image Text](https://media.star-promise.top/img/241202/Example.webp)
 
 * Reference  (同上，好处也是不用重复拷贝一个链接)
 
   *代码展示：*
 
   ````
-  [image-id]: https://img.star-promise.top/in-post/241203/WeChat.png
+  [image-id]: https://media.star-promise.top/img/241203/WeChat.png
   ![1][image-id]
   ![2][image-id]
   ![3][image-id]
@@ -250,7 +250,7 @@ Markdown中引用图片资源同样也是分为内联(Inline)和外部引用(Ref
 
   *效果展示：*
 
-  [image-id]: https://img.star-promise.top/in-post/241203/WeChat.png
+  [image-id]: https://media.star-promise.top/img/241203/WeChat.png
   ![1][image-id]
   ![2][image-id]
   ![3][image-id]
