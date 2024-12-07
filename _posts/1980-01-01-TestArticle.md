@@ -32,7 +32,7 @@ tags: -碎片
 ### 音频外链测试
 
 <audio controls="controls" loop="loop">
-	<source src="https://media.star-promise.top/video/%E7%A4%BA%E4%BE%8B%E8%A7%86%E9%A2%91.mp4" type="audio/mp3"></source>
+	<source src="https://media.star-promise.top/audio/%E7%A4%BA%E4%BE%8B%E9%9F%B3%E9%A2%91.mp3" type="audio/mp3"></source>
 </audio>
 
 
