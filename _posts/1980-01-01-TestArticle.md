@@ -4,7 +4,7 @@ title: "测试文章 Test Article"
 subtitle: " \"不用管我，我只是作者大大做测试用的 (≖◡≖✿)\""
 date: 1980-01-01 00:00:01
 author: "XingXu."
-catalog: true
+catalog: false
 tags: - 碎片
 ---
 
